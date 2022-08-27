@@ -81,6 +81,7 @@ body {
 
 #guide {
     display: flex;
+    align-items: center;
     background: #A8DADC;
     margin: 75px 100px;
     padding: 20px;
